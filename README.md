@@ -11,7 +11,7 @@ The project demonstrates an end-to-end data analytics workflow using Python and 
 -	Compare department-level and treatment-level KPIs.
 -	Generate actionable insights from healthcare data.
 ## Data Quality and Cleaning
-## Data quality checks were performed before analysis to improve the reliability and consistency of the dataset.
+Data quality checks were performed before analysis to improve the reliability and consistency of the dataset.
 The following activities were performed:
 -	Checked for duplicate records.
 -	Performed data completeness checks.
