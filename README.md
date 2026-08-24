@@ -1,6 +1,6 @@
 # Healthcare Patient Analytics & Operational Reporting
 ## Project Overview
-This project analyzes 5,000+ patient records to identify key healthcare and operational insights. The analysis focuses on patient visit volume, treatment costs, length of stay, recovery scores, readmission risk, and department- and treatment-level performance.
+This project analyzes 5,000+ patient records to identify healthcare kpi and operational insights. The analysis focuses on patient visit volume, treatment costs, length of stay, recovery scores, readmission risk, and department- and treatment-level performance.
 The project demonstrates an end-to-end data analytics workflow using Python and SQL, covering data validation, data cleaning, KPI analysis, and operational insights.
 ## Objectives
 -	Analyze patient visit volume and healthcare service utilization.
@@ -21,9 +21,9 @@ The following activities were performed:
 -	Identified and flagged unusual length-of-stay values for further investigation.
 -	Prepared the cleaned dataset for analysis.
 ## Tools and Technologies
--	Python – Data cleaning, validation, exploratory analysis, and data preparation
+-	Python – Data cleaning, validation, exploratory analysis
 -	SQL – Data querying, KPI calculations, aggregations, and analysis
-## Key Healthcare KPIs
+## Healthcare KPIs
 The project analyzes the following key performance indicators:
 -	Patient Visit Volume
 -	Treatment Cost
@@ -32,20 +32,6 @@ The project analyzes the following key performance indicators:
 -	Readmission Risk
 -	Department-level Performance
 -	Treatment-level Performance
-## Project Workflow
-```
-Raw Patient Data
-       ↓
-Data Validation
-       ↓
-Data Cleaning
-       ↓
-Exploratory Data Analysis
-       ↓
-SQL-based KPI Analysis
-       ↓
-Healthcare Insights
-```
 ## Key Outcomes
 -	Analyzed 5,000+ patient records to identify healthcare and operational trends.
 -	Improved data quality through duplicate removal, completeness checks, data-type validation, and numerical value checks.
