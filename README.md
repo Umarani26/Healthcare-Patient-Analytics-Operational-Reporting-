@@ -33,21 +33,12 @@ The project analyzes the following key performance indicators:
 -	Department-level Performance
 -	Treatment-level Performance
 ## Key Outcomes
--	Analyzed 5,000+ patient records to identify healthcare and operational trends.
 -	Improved data quality through duplicate removal, completeness checks, data-type validation, and numerical value checks.
 -	Generated healthcare KPIs using SQL.
 -	Used Python for data cleaning and analysis.
 -	Identified patient and operational patterns related to treatment costs, length of stay, recovery, and readmission risk.
 -	Developed a structured and repeatable workflow for healthcare data analytics.
-## Skills Demonstrated
--	Healthcare Data Analytics
--	Data Cleaning and Validation
--	Exploratory Data Analysis
--	Python
--	SQL
--	KPI Development
--	Data Quality Analysis
--	Data Analysis
+
 -	Operational Reporting
 ## Conclusion
 This project demonstrates an end-to-end approach to healthcare analytics, from raw data validation and cleaning to KPI analysis and operational insights. The workflow provides a structured approach for transforming healthcare data into meaningful insights that can support data-driven decision-making.
