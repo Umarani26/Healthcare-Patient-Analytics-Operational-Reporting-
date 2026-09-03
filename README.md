@@ -18,16 +18,7 @@ The analysis examines data quality issues such as missing values, duplicate reco
 
 The dataset used in this project is:
 
-`healthcare_patient_visits`
-
-The analysis uses the following fields:
-
-- `patient_id`
-- `visit_date`
-- `department`
-- `treatment_type`
-- `treatment_cost`
-- `length_of_stay_days`
+`healthcare_patient_analytics.csv`
 
 ## Python Data Quality Analysis
 
@@ -113,28 +104,6 @@ Identified potential duplicate visits using:
 9. Perform DuckDB SQL analysis
 10. Identify potential duplicate visits
 
-## Key Data Quality Checks
-
-| Check | Purpose |
-|---|---|
-| Missing values | Identify incomplete records |
-| Duplicate rows | Detect repeated records |
-| Date conversion | Standardize visit dates |
-| Negative treatment costs | Identify potentially invalid values |
-| Long hospital stays | Investigate unusual visits |
-| Duplicate visit combinations | Identify potential duplicate visits |
-
-## Key Analysis Questions
-
-- How many total patient visits are recorded?
-- How many unique patients are represented?
-- Which departments have the highest number of visits?
-- Which departments have the highest average treatment costs?
-- Which departments have the longest average length of stay?
-- Are there negative treatment costs?
-- Are there unusually long hospital stays?
-- Are there potentially duplicated patient visit records?
-- What is the overall distribution of patient length of stay?
 
 ## Conclusion
 
